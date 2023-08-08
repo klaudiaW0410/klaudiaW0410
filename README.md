@@ -11,7 +11,9 @@
 
  🌐 You can find me on [LinkedIn](https://www.linkedin.com/in/klaudiawroblewska0410/) or reach out via [email](mailto:kwroblewska0410@gmail.com) 
 
-### Tech Skills:
+ ***
+
+###  💻 Tech Skills:
 
 * HTML
 * CSS
