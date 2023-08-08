@@ -11,13 +11,10 @@
 
  🌐 You can find me on [LinkedIn](https://www.linkedin.com/in/klaudiawroblewska0410/) or reach out via [email](mailto:kwroblewska0410@gmail.com) 
 
- 💻 Tech Skills:
+ 🛠 Languages and tools: 
 ===
-* HTML
-* CSS
-* JavaScript
-* Responsive design
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git.github,netlify,vscode)](https://skillicons.dev)
 
 
 
