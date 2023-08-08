@@ -13,17 +13,9 @@
 
 ### Tech Skills:
 
-HTML
-CSS
-JavaScript
-Responsive design
-- Pierwszy punkt
-- Drugi punkt
-- Trzeci punkt
-* Pierwszy punkt
-* Drugi punkt
-* Trzeci punkt
-+ Pierwszy punkt
-+ Drugi punkt
-+ Trzeci punkt
+* HTML
+* CSS
+* JavaScript
+* Responsive design
+
 
