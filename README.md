@@ -7,5 +7,10 @@
  
  🙌🏻 Open to working with people.
 
-Check my [portfolio](https://www.example.com](https://imaginative-froyo-748def.netlify.app/)https://imaginative-froyo-748def.netlify.app/)
+ 👩‍💻 You can check my [portfolio](https://imaginative-froyo-748def.netlify.app/)
+
+ 🌐 You can find me on [LinkedIn](www.linkedin.com/in/klaudiawroblewska0410) and sand an [email](kwroblewska0410@gmail.com)
+
+
+ 
 
