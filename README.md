@@ -1,7 +1,7 @@
 ### Hi there 👋 I' m Klaudia !
 
 
- 🌱 I’m currently learning Web Developement. (Bootcamp [Technigo](https://www.technigo.io/))
+ 🌱 I’m currently learning Web Developement. (Bootcamp [Technigo](https://www.technigo.io/) Fall 2023)
  
  🥑 I enjoy programming.
  
