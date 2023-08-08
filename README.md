@@ -14,7 +14,7 @@
  🛠 Languages and tools: 
 ===
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git.github,netlify,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git,github,netlify,vscode)](https://skillicons.dev)
 
 
 
