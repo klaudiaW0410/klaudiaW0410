@@ -1,4 +1,4 @@
-👋 Hi there I' m Klaudia !
+👋 Hi there, I' m Klaudia !
 ===
 
  🌱 I’m currently learning Web Developement. (Fall 2023: [Technigo](https://www.technigo.io/) Web Development Bootcamp )
