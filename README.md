@@ -10,3 +10,5 @@
  👩‍💻 You can check my [portfolio](https://imaginative-froyo-748def.netlify.app/)
 
  🌐 You can find me on [LinkedIn](www.linkedin.com/in/klaudiawroblewska0410) or reach out via [email](kwroblewska0410@gmail.com)
+ Możesz się ze mną skontaktować poprzez e-mail: [adres@domena.com](mailto:adres@domena.com)
+
