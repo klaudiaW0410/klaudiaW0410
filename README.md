@@ -1,7 +1,7 @@
 ### Hi there 👋 I' m Klaudia !
 
 
- 🌱 I’m currently learning Web Developement. ( Bootcamp  [Technigo](https://imaginative-froyo-748def.netlify.app/](https://www.technigo.io/) )
+ 🌱 I’m currently learning Web Developement. (Bootcamp [Technigo](https://www.technigo.io/))
  
  🥑 I enjoy programming.
  
