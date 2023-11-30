@@ -12,7 +12,7 @@
  🛠 Languages and tools: 
 ===
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,netlify,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,netlify,vscode,express)](https://skillicons.dev)
 
 
 
