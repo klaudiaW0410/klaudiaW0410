@@ -13,7 +13,7 @@
 ===
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,netlify,vscode,express,codepen,discord,figma,mongodb,nodejs,postman,stackoverflow,vite)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
 
 
