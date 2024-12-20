@@ -13,11 +13,11 @@
 ===
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,angular,cs)](https://skillicons.dev)
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=express,mongodb,nodejs,postman,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,mongodb,nodejs,postman,vite,dotnet)](https://skillicons.dev)
 
 
 
