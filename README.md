@@ -1,11 +1,19 @@
 👋 Hi there, I' m Klaudia !
 ===
 
- 🌱 I’m junior full stack developer
- 
- 🥑 I enjoy programming.
- 
- 🙌🏻 Open to working with people.
+🚀 Frontend Developer | React · TypeScript · Supabase · Node.js · C#
+
+💼 Open to remote roles (EU/English-speaking)
+
+🌍 Based in Sweden · open to relocation
+
+🗣 Polish (native) · Swedish (intermediate) · English (fluent)
+
+🛠 Building: DayBloom — personal life OS app
+
+🎨 Passionate about UX/UI design
+
+🔗 Portfolio: https://klaudiawroblewska.netlify.app
 
  🌐 You can find me on [LinkedIn](https://www.linkedin.com/in/klaudiawroblewska0410/) or reach out via [email](mailto:kwroblewska0410@gmail.com) 
 
