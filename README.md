@@ -9,7 +9,7 @@
 
 🗣 Polish (native) · Swedish (intermediate) · English (fluent)
 
-🛠 Building: DayBloom — personal life OS app
+🛠 Building: Plant AI — plant  care OS app
 
 🎨 Passionate about UX/UI design
 
