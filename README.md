@@ -1,7 +1,8 @@
 👋 Hi there, I' m Klaudia !
 ===
+🚀 Frontend | React · TypeScript · Swift / SwiftUI · Supabase · Node.js
 
-🚀 Frontend Developer | React · TypeScript · Supabase · Node.js · C#
+📱 Building: wip: Sketch & Notes — iPad note-taking app, currently in TestFlight / waiting for Apple App Store review
 
 💼 Open to remote roles (EU/English-speaking)
 
@@ -9,9 +10,8 @@
 
 🗣 Polish (native) · Swedish (intermediate) · English (fluent)
 
-🛠 Building: Plant AI — plant  care OS app
+🎨 Passionate about UX/UI design & aesthetic interfaces
 
-🎨 Passionate about UX/UI design
 
 🔗 Portfolio: https://klaudiawroblewska.netlify.app
 
